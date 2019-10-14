@@ -2058,7 +2058,7 @@ Cover
     .cover_slider .cover_item {
         width: 100%;
         position: relative;
-        height: 100vh;
+        height: 85vh;
         min-height: 600px;
         padding: 150px 0;
         background-position: center center !important;
@@ -3378,6 +3378,9 @@ textarea.form-control {
     #Mobile{
         display:block !important;
     }
+	#Mobile{
+		height:315px !important;
+	}
 }
 
 @media only screen and (min-width: 600px) {
